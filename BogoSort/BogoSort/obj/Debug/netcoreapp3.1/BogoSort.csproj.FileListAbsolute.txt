@@ -1,0 +1,13 @@
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\bin\Debug\netcoreapp3.1\BogoSort.exe
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\bin\Debug\netcoreapp3.1\BogoSort.deps.json
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\bin\Debug\netcoreapp3.1\BogoSort.runtimeconfig.json
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\bin\Debug\netcoreapp3.1\BogoSort.runtimeconfig.dev.json
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\bin\Debug\netcoreapp3.1\BogoSort.dll
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\bin\Debug\netcoreapp3.1\BogoSort.pdb
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\obj\Debug\netcoreapp3.1\BogoSort.csprojAssemblyReference.cache
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\obj\Debug\netcoreapp3.1\BogoSort.AssemblyInfoInputs.cache
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\obj\Debug\netcoreapp3.1\BogoSort.AssemblyInfo.cs
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\obj\Debug\netcoreapp3.1\BogoSort.csproj.CoreCompileInputs.cache
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\obj\Debug\netcoreapp3.1\BogoSort.dll
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\obj\Debug\netcoreapp3.1\BogoSort.pdb
+C:\Users\cmcdougal\source\repos\BogoSort\BogoSort\obj\Debug\netcoreapp3.1\BogoSort.genruntimeconfig.cache
