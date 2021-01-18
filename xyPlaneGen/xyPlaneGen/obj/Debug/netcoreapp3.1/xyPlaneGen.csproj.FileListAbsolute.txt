@@ -1,0 +1,13 @@
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\bin\Debug\netcoreapp3.1\xyPlaneGen.exe
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\bin\Debug\netcoreapp3.1\xyPlaneGen.deps.json
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\bin\Debug\netcoreapp3.1\xyPlaneGen.runtimeconfig.json
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\bin\Debug\netcoreapp3.1\xyPlaneGen.runtimeconfig.dev.json
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\bin\Debug\netcoreapp3.1\xyPlaneGen.dll
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\bin\Debug\netcoreapp3.1\xyPlaneGen.pdb
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\obj\Debug\netcoreapp3.1\xyPlaneGen.csprojAssemblyReference.cache
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\obj\Debug\netcoreapp3.1\xyPlaneGen.AssemblyInfoInputs.cache
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\obj\Debug\netcoreapp3.1\xyPlaneGen.AssemblyInfo.cs
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\obj\Debug\netcoreapp3.1\xyPlaneGen.csproj.CoreCompileInputs.cache
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\obj\Debug\netcoreapp3.1\xyPlaneGen.dll
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\obj\Debug\netcoreapp3.1\xyPlaneGen.pdb
+C:\Users\cmcdougal\source\repos\xyPlaneGen\xyPlaneGen\obj\Debug\netcoreapp3.1\xyPlaneGen.genruntimeconfig.cache
