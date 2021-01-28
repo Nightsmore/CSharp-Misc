@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace xyPlaneGen
 {
@@ -14,9 +14,10 @@ namespace xyPlaneGen
             mapArray = new int[10, 10];
             terrainSizeX = 10;
             terrainSizeZ = 10;
-
+            int iter;
             for (int i = 0; i != terrainSizeX; ++i)
             {
+                iter = 0;
               
                 try
                 {
@@ -29,9 +30,10 @@ namespace xyPlaneGen
 
                 for (int ii = 0; ii != terrainSizeZ; ++ii)
                 {
+                    iter += chunkSize;
                     try
                     {
-                        mapArray[i, ii] = (mapArray[i, ii - 1] + chunkSize);
+                        mapArray[i, ii+1] = iter;
                     }
                     catch (System.IndexOutOfRangeException)
                     {
